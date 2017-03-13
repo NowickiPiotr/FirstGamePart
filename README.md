@@ -1,5 +1,6 @@
 Short part of CyberGenes 
-CyberGenes game should be avaliable on gp soon
+Full game:
+https://play.google.com/store/apps/details?id=pl.GameISO.CyberGene&hl=pl
 I was responsible for:
 
 1. Optimization (everything except shaders)
